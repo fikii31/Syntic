@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "cd syntic_project && npm run dev",
+    "build": "cd syntic_project && npm run build",
+    "start": "cd syntic_project && npm run start",
+    "lint": "cd syntic_project && npm run lint"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.14.2"
+  }
+}
